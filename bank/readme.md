@@ -6,7 +6,7 @@ The bank stores all data in a json file and testpersons are loaded at the first 
 
 ## Testpersons
 
-Social security nr | Accountname
-010101-0101  -  Stina Andersson
-101010-1010  -  Åke Persson
-800808-0808  -  Ulf Eriksson
+Social security nr | Accountname  
+010101-0101  -  Stina Andersson  
+101010-1010  -  Åke Persson  
+800808-0808  -  Ulf Eriksson  
