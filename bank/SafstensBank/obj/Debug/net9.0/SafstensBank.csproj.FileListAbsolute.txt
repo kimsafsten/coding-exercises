@@ -1,0 +1,15 @@
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.AssemblyInfoInputs.cache
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.AssemblyInfo.cs
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.sourcelink.json
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\bin\Debug\net9.0\SafstensBank.exe
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\bin\Debug\net9.0\SafstensBank.deps.json
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\bin\Debug\net9.0\SafstensBank.runtimeconfig.json
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\bin\Debug\net9.0\SafstensBank.dll
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\bin\Debug\net9.0\SafstensBank.pdb
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.dll
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\refint\SafstensBank.dll
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.pdb
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\SafstensBank.genruntimeconfig.cache
+C:\Users\marti\Documents\Kim\SYS25D\coding-exercises\SafstensBank\SafstensBank\obj\Debug\net9.0\ref\SafstensBank.dll

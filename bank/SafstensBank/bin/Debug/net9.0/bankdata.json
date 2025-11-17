@@ -1,0 +1,148 @@
+[
+  {
+    "Owner": "Stina Andersson",
+    "PersonalNumber": "010101-0101",
+    "Balance": 8200,
+    "Transactions": [
+      {
+        "Date": "2025-10-21T12:09:43.3270217+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 4750,
+        "BalanceAfter": 4750
+      },
+      {
+        "Date": "2025-11-17T15:45:37.9312788+01:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 3500,
+        "BalanceAfter": 8250
+      },
+      {
+        "Date": "2025-11-17T15:47:02.8382746+01:00",
+        "Type": "Uttag",
+        "Amount": 50,
+        "BalanceAfter": 8200
+      }
+    ]
+  },
+  {
+    "Owner": "\u00C5ke Persson",
+    "PersonalNumber": "101010-1010",
+    "Balance": 1200,
+    "Transactions": [
+      {
+        "Date": "2025-10-21T12:09:43.4310103+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 1200,
+        "BalanceAfter": 1200
+      }
+    ]
+  },
+  {
+    "Owner": "Ulf Eriksson",
+    "PersonalNumber": "800808-0808",
+    "Balance": 60,
+    "Transactions": [
+      {
+        "Date": "2025-10-21T12:09:43.4446867+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 580,
+        "BalanceAfter": 580
+      },
+      {
+        "Date": "2025-10-21T12:09:54.1303972+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 859,
+        "BalanceAfter": 1439
+      },
+      {
+        "Date": "2025-10-21T14:16:33.0165475+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 60,
+        "BalanceAfter": 60
+      }
+    ]
+  },
+  {
+    "Owner": "Simon Karlsson",
+    "PersonalNumber": "770707-0707",
+    "Balance": 1300,
+    "Transactions": [
+      {
+        "Date": "2025-10-21T12:10:31.6679159+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 1365,
+        "BalanceAfter": 1365
+      },
+      {
+        "Date": "2025-10-21T12:10:41.7602924+02:00",
+        "Type": "Uttag",
+        "Amount": 65,
+        "BalanceAfter": 1300
+      }
+    ]
+  },
+  {
+    "Owner": "Frida Sten",
+    "PersonalNumber": "121212-1212",
+    "Balance": 5428,
+    "Transactions": [
+      {
+        "Date": "2025-10-21T12:11:26.9083699+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 5428,
+        "BalanceAfter": 5428
+      }
+    ]
+  },
+  {
+    "Owner": "Linda Ahlquist",
+    "PersonalNumber": "050505-0550",
+    "Balance": 31991,
+    "Transactions": [
+      {
+        "Date": "2025-10-21T12:12:02.2133467+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 32580,
+        "BalanceAfter": 32580
+      },
+      {
+        "Date": "2025-10-21T12:12:12.040956+02:00",
+        "Type": "Uttag",
+        "Amount": 589,
+        "BalanceAfter": 31991
+      }
+    ]
+  },
+  {
+    "Owner": "Martin",
+    "PersonalNumber": "910511-4319",
+    "Balance": 1000,
+    "Transactions": [
+      {
+        "Date": "2025-10-21T12:44:43.0879766+02:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 1000,
+        "BalanceAfter": 1000
+      }
+    ]
+  },
+  {
+    "Owner": "Sara Fredriksson",
+    "PersonalNumber": "888080-0808",
+    "Balance": 290,
+    "Transactions": [
+      {
+        "Date": "2025-11-17T15:45:08.6751948+01:00",
+        "Type": "Ins\u00E4ttning",
+        "Amount": 300,
+        "BalanceAfter": 300
+      },
+      {
+        "Date": "2025-11-17T15:45:15.8071898+01:00",
+        "Type": "Uttag",
+        "Amount": 10,
+        "BalanceAfter": 290
+      }
+    ]
+  }
+]
