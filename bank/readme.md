@@ -10,3 +10,7 @@ Social security nr | Accountname
 010101-0101  -  Stina Andersson  
 101010-1010  -  Åke Persson  
 800808-0808  -  Ulf Eriksson  
+
+## Screenshot
+
+[Screenshot of bank](bank/screenshot-bank.png)
