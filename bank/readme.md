@@ -13,4 +13,4 @@ Social security nr | Accountname
 
 ## Screenshot
 
-[Screenshot of bank](bank/screenshot-bank.png)
+[Screenshot of bank](/screenshot-bank.png)
